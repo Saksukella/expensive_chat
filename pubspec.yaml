@@ -1,0 +1,106 @@
+name: expensive_chat
+description: A new Flutter project.
+
+
+publish_to: 'none' 
+
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.18.0 <3.0.0'
+
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+    
+  cupertino_icons: ^1.0.2
+  get: ^4.6.5
+  shared_preferences: ^2.0.15
+  google_fonts: ^3.0.1
+  animations: ^2.0.4
+  another_flushbar: ^1.12.29
+  lottie: ^1.4.3
+  loading_animation_widget: ^1.2.0+3
+  auto_size_text: ^3.0.0
+  flex_color_scheme: ^6.0.0
+  cached_network_image: ^3.2.2
+  animate_do: ^2.1.0
+  flex_color_picker: ^2.6.1
+  badges: ^2.0.3
+  animated_text_kit: ^4.2.2
+  group_button: ^5.2.2
+  syncfusion_flutter_sliders: ^20.2.49
+  font_awesome_flutter: ^10.2.1
+  package_info_plus: ^1.4.3+1
+  
+
+  firebase_auth: ^3.9.0
+  firebase_core: ^1.22.0
+  cloud_firestore: ^3.4.8
+  google_sign_in: ^5.4.1
+  flutter_login: ^4.0.0
+  salomon_bottom_bar: ^3.3.1
+  flutter_chat_ui: ^1.6.4
+ 
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_native_splash: ^2.2.9
+  flutter_launcher_icons: ^0.10.0 
+flutter_icons:
+  image_path: "assets/icons/launcher_icon.png"
+  android: true
+  ios: true
+  remove_alpha_ios: true  
+
+flutter_native_splash:
+  image: assets/icons/launcher_icon.png
+  fullscreen: true
+  color: "#F3F6F9"
+  color_dark: "#071018"
+
+  flutter_lints: ^2.0.0
+
+flutter:
+
+  assets: 
+    - assets/icons/
+  
+  uses-material-design: true
+
+  
+  
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  

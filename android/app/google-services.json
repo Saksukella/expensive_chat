@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "730936628748",
+    "project_id": "expensive-chat-8faa6",
+    "storage_bucket": "expensive-chat-8faa6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730936628748:android:372cb5f7595c0ccb78c029",
+        "android_client_info": {
+          "package_name": "com.egemen_erdem.expensive_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730936628748-c3tkid6g2lr2furrrsu8pbftchp6dhsg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwIk4FDLsdB52EqE4oNEtNo3lUS9DSgCU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730936628748-c3tkid6g2lr2furrrsu8pbftchp6dhsg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "730936628748-uim73h9al4knqtjedhuedq3rlgep7cih.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.egemenerdem.expansiveChat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
